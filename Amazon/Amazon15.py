@@ -27,3 +27,4 @@ class Solution:
             curr=nextNode
             
         return head
+    
