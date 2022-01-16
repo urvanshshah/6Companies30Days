@@ -1,4 +1,4 @@
-## 1:Minimum sum partition
+// 1:Minimum sum partition
 
 class Solution{
 
